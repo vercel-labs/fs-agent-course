@@ -8,9 +8,15 @@
     "start": "next start"
   },
   "dependencies": {
+    "@ai-sdk/react": "^3.0.77",
+    "@vercel/sandbox": "^1.4.1",
+    "ai": "^6.0.69",
+    "dotenv": "^17.2.3",
     "next": "16.1.6",
     "react": "19.2.3",
-    "react-dom": "19.2.3"
+    "react-dom": "19.2.3",
+    "tsx": "^4.21.0",
+    "zod": "^4.3.6"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
